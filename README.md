@@ -2,6 +2,12 @@
 
 Just listing all .NETStandard special folder paths.
 
+```csharp
+var folder = (Environment.SpecialFolder)value;
+var path = Environment.GetFolderPath(folder);
+Debug.WriteLine($"[{folder}] : {path}");
+```
+
 ## iOS Simulator
 
 ```
