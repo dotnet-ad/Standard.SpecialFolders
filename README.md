@@ -1,6 +1,6 @@
 # Standard.SpecialFolders
 
-Just listing all .NETStandard special folder paths.
+Just listing all .NETStandard 2 special folder paths.
 
 ```csharp
 var folder = (Environment.SpecialFolder)value;
