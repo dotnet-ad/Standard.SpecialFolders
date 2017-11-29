@@ -54,7 +54,7 @@ Just listing all .NETStandard special folder paths.
 [CDBurning] : 
 ```
 
-## Android (Samsung Galaxy S8)
+## Android
 
 ```
 [Desktop] : /data/user/0/com.SpecialFolders_Droid/files/Desktop
@@ -104,58 +104,6 @@ Just listing all .NETStandard special folder paths.
 [LocalizedResources] : 
 [CommonOemLinks] : 
 [CDBurning] : 
-```
-
-## Android (Nexus 5)
-
-```
-[Desktop] : /data/user/0/com.SpecialFolders_Droid/files/Desktop
-[0:] [Programs] : 
-[0:] [MyDocuments] : /data/user/0/com.SpecialFolders_Droid/files
-[0:] [MyDocuments] : /data/user/0/com.SpecialFolders_Droid/files
-[0:] [Favorites] : 
-[0:] [Startup] : 
-[0:] [Recent] : 
-[0:] [SendTo] : 
-[0:] [StartMenu] : 
-[0:] [MyMusic] : /data/user/0/com.SpecialFolders_Droid/files/Music
-[0:] [MyVideos] : /data/user/0/com.SpecialFolders_Droid/files/Videos
-[0:] [DesktopDirectory] : /data/user/0/com.SpecialFolders_Droid/files/Desktop
-[0:] [MyComputer] : 
-[0:] [NetworkShortcuts] : 
-[0:] [Fonts] : /data/user/0/com.SpecialFolders_Droid/files/.fonts
-[0:] [Templates] : /data/user/0/com.SpecialFolders_Droid/files/Templates
-[0:] [CommonStartMenu] : 
-[0:] [CommonPrograms] : 
-[0:] [CommonStartup] : 
-[0:] [CommonDesktopDirectory] : 
-[0:] [ApplicationData] : /data/user/0/com.SpecialFolders_Droid/files/.config
-[0:] [PrinterShortcuts] : 
-[0:] [LocalApplicationData] : /data/user/0/com.SpecialFolders_Droid/files/.local/share
-[0:] [InternetCache] : 
-[0:] [Cookies] : 
-[0:] [History] : 
-[0:] [CommonApplicationData] : /usr/share
-[0:] [Windows] : 
-[0:] [System] : 
-[0:] [ProgramFiles] : 
-[0:] [MyPictures] : /data/user/0/com.SpecialFolders_Droid/files/Pictures
-[0:] [UserProfile] : /data/user/0/com.SpecialFolders_Droid/files
-[0:] [SystemX86] : 
-[0:] [ProgramFilesX86] : 
-[0:] [CommonProgramFiles] : 
-[0:] [CommonProgramFilesX86] : 
-[0:] [CommonTemplates] : /usr/share/templates
-[0:] [CommonDocuments] : 
-[0:] [CommonAdminTools] : 
-[0:] [AdminTools] : 
-[0:] [CommonMusic] : 
-[0:] [CommonPictures] : 
-[0:] [CommonVideos] : 
-[0:] [Resources] : 
-[0:] [LocalizedResources] : 
-[0:] [CommonOemLinks] : 
-[0:] [CDBurning] : 
 ```
 
 ## UWP (10.0; Build 16299)
